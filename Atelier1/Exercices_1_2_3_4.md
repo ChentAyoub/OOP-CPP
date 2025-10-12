@@ -1,3 +1,4 @@
+> Pour voir ce fichier bien organisé, cliquez sur le bouton **« Code »** à côté de l’aperçu.
 ____________________#Exercice 1____________________
 /* 1 */
     - le type: int //avant toute operation arithmetique tous les types plus petits que int sont automatiquement convertis en int
